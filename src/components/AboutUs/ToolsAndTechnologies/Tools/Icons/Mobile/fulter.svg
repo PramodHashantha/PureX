@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #02539a } 
+		.shp1 { opacity: 0.851;fill: #45d1fd } 
+		.shp2 { fill: #45d1fd } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="shp0" d="M45.63 79.98L24.03 58.52L35.97 46.38L69.63 79.98L45.63 79.98Z" />
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="shp1" d="M23.77 58.54L45.17 37.14L69.23 37.14L35.93 70.43L23.77 58.54Z" />
+			<path id="Layer" fill-rule="evenodd" class="shp2" d="M5.24 39.88L17.39 52.02L69.23 0.18L45.04 0.18L5.24 39.88Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,66 @@
+
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.ToolsAndTechnologiesContainer{
+    /* border:1px solid red; */
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width:100%;
+}
+
+.ToolsCardContainer{
+    /* border: 1px solid #ddd; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width:100%;
+    
+}
+
+.ToolsCard{
+    /* border: 1px dotted blue; */
+    margin: 0.5rem 1rem;
+    flex-wrap: wrap;
+    display: flex;
+    width: 8rem;
+    height: 8rem;
+    background-color: #fff;
+    border-radius: 0.5rem;
+    transition: box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.ToolsCard:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.T_cards{
+    margin: 0.5rem auto 0;
+    flex-wrap: wrap;
+    /* border: 1px solid green; */
+}
+/* .T_cards img{
+    width:90px; 
+} */
+
+.ToolsCard p{
+    text-align: center;
+    margin: auto;
+    font-size: 0.8rem;
+    width: 100%;
+    display: inline-block;
+    height: 0.9rem;
+}
+
+.ToolsContentContainer{
+    height:30%;
+    border: 1px solid black;
+    display: flex;
+    margin: auto;
+    width:60%;
+}

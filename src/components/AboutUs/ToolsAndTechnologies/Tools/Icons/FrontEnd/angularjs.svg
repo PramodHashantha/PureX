@@ -1,0 +1,17 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+	<title>icons8-angularjs-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #bdbdbd } 
+		.shp1 { fill: #b71c1c } 
+		.shp2 { fill: #dd2c00 } 
+		.shp3 { fill: #eeeeee } 
+	</style>
+	<path id="Layer" class="shp0" d="M39.89 3.33L5 15.48L10.51 60.68L39.92 76.67L69.49 60.46L75 15.26L39.89 3.33Z" />
+	<path id="Layer" class="shp1" d="M71.36 17.54L40 6.89L40 72.83L66.39 58.36L71.36 17.54Z" />
+	<path id="Layer" class="shp2" d="M39.9 6.86L8.63 17.74L13.61 58.57L39.92 72.87L40 72.83L40 6.89L39.9 6.86Z" />
+	<path id="Layer" class="shp0" d="M40 9.99L40 25.84L54.3 56.67L61.65 56.67L40 9.99Z" />
+	<path id="Layer" class="shp3" d="M18.36 56.67L25.7 56.67L40 25.84L40 9.99L18.36 56.67Z" />
+	<path id="Layer" class="shp0" d="M40 40L50 40L50 46.67L40 46.67L40 40Z" />
+	<path id="Layer" class="shp3" d="M30 40L40 40L40 46.67L30 46.67L30 40Z" />
+</svg>

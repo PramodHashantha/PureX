@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+	<title>icons8-vue-js-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #81c784 } 
+		.shp1 { fill: #455a64 } 
+	</style>
+	<path id="Layer" class="shp0" d="M39.98 28.33L31.22 13.33L4.96 13.33L39.98 73.33L75 13.33L48.73 13.33L39.98 28.33Z" />
+	<path id="Layer" class="shp1" d="M48.73 13.33L39.98 28.33L31.22 13.33L18.58 13.33L39.98 50L61.38 13.33L48.73 13.33Z" />
+</svg>
